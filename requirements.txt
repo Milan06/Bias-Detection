@@ -1,0 +1,13 @@
+install the following libraries 
+
+- pillow
+- PyMuPDF
+- PyQt5
+- pdfminer.six
+- openai
+- pybase64
+- dotenv
+
+running latest version of python
+- 3.13.5
+
